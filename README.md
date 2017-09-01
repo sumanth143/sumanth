@@ -1,2 +1,2 @@
 # sumanth
-test repository
+test repository for git command demonstrations
